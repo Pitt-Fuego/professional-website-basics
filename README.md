@@ -1,7 +1,7 @@
 # Pitt Fuego Professional Webpage Basics
 
  
-### This ultra-light bootstrap-ready template includes responsive design and cool tools like navigation and modal views...everything you need to get going on your professional journey. 
+### This ultra-lite bootstrap-ready template includes responsive design and cool tools like navigation and modal views...everything you need to get going on your professional journey. 
 
 
 
