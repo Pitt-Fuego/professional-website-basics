@@ -9,7 +9,7 @@
 
 ## Get started!
 
-1. Go to repository Electrate Fuego repository: [Here](https://github.com/Pitt-Fuego/professional-website-basics)
+1. Go to the Professional Website Basics repository: [Here](https://github.com/Pitt-Fuego/professional-website-basics)
 
 2. Click "Code" then "Download ZIP" to your local computer. 
 
